@@ -29,7 +29,7 @@ $ virualvenv -p python3 env
 $ source env/bin/activate
 ```
 
-5. Guarda to Planet API Key como variable de entorno
+5. Guarda tu Planet API Key como variable de entorno
 
 ```bash
 $ export PL_API_KEY=XXXXXXXXXXXXXXXXXXXXXXXXX
