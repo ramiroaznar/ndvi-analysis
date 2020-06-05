@@ -4,6 +4,13 @@
 * Autor: Ramiro Aznar
 * [Webinar link](https://www.unigis.es/webinar-analisis-de-imagenes-de-satelite-con-python-notebooks/) 
 
+## Recursos
+
+* [Planet Docs](https://developers.planet.com/docs/)
+* [Planet School](https://developers.planet.com/planetschool/)
+* [Planet API Docs](https://developers.planet.com/docs/data/)
+* [Vegetation Spectral Reflectance Curves](http://gsp.humboldt.edu/OLM/Courses/GSP_216_Online/lesson2-1/vegetation.html#:~:text=Vegetation%20has%20a%20unique%20spectral,the%20spectral%20reflectance%20of%20vegetation.)
+
 ## Instrucciones
 
 1. Crear una cuenta en https://www.planet.com
