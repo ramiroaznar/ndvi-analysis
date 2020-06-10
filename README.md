@@ -15,7 +15,7 @@
 
 1. Crear una cuenta en https://www.planet.com
 2. Obtener tu Planet API Key en tu perfil en https://www.planet.com/explorer/
-3. Clonar este repositorio y dirígente a la carpeta
+3. Clonar este repositorio y dirígete a la carpeta
 
 ```bash
 $ git clone https://github.com/ramiroaznar/ndvi-analysis.git
@@ -25,7 +25,7 @@ $ cd ndvi-analysis/
 1. Crea un entorno virtual y lanza jupyter
 
 ```bash
-$ virualvenv -p python3 env
+$ virtualvenv -p python3 env
 $ source env/bin/activate
 ```
 
